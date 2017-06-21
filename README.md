@@ -1,3 +1,9 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![CircleCI](https://circleci.com/gh/kpango/glg.svg?style=shield)](https://circleci.com/gh/kpango/glg)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a6e544eee7bc49e08a000bb10ba3deed)](https://www.codacy.com/app/i.can.feel.gravity/glg?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=kpango/glg&amp;utm_campaign=Badge_Grade)
+[![Go Report Card](https://goreportcard.com/badge/github.com/kpango/glg)](https://goreportcard.com/report/github.com/kpango/glg)
+[![GoDoc](http://godoc.org/github.com/kpango/glg?status.svg)](http://godoc.org/github.com/kpango/glg)
+
 # glg
 glg is simple golang logging library
 
